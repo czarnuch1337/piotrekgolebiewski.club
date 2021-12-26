@@ -1,5 +1,6 @@
 # piotrekgolebiewski
-1.12.2 Texture pack for mainly anarchy
+1.12.2 Texture pack for mainly anarchy.
+
 Based on Faithful @ https://faithful.team/
 
 Credits : Whitefox - Helping with pack.png/totem/gapple
