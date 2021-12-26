@@ -1,5 +1,5 @@
 # piotrekgolebiewski
-full remake incoming
+1.12.2 Faithful edit
 
 Credits : Whitefox - Helping with pack.png/totem/gapple
 
